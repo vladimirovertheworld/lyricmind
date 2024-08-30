@@ -3,7 +3,7 @@
 # Variables - replace these with your repository details
 GITHUB_USERNAME="vladimirovertheworld"   # Replace with your GitHub username
 REPO_NAME="lyricmind"        # Replace with the repository name you want to delete and recreate
-LOCAL_REPO_PATH="/Users/vovkes/lyricmind"  # Replace with the local path to your repository
+LOCAL_REPO_PATH="/Users/Vovkes/"  # Replace with the local path to your repository
 
 # Step 1: Delete the repository on GitHub
 echo "Deleting GitHub repository: $REPO_NAME"
